@@ -11,8 +11,8 @@ pygments: true
 #
 title : LocalUp Policies
 tagline: 
-author :
-  name : 
+author : 
+  name : LocalUp
   email : support@localup.com
   github : 
   twitter : @LocalUp
